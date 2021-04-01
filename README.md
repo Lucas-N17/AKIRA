@@ -7,7 +7,7 @@ rápido e expansivel
 
 # Técnologias usadas:
      Reconhecimento de voz: (Google para reconhecimento online, Vosk para reconhecimento offline)
-     Sintese de voz:
+     Sintese de voz: (pyttsx3)
      Algum tipo de I.A.
 
 # Por que fazer isso?
